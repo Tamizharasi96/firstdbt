@@ -1,0 +1,1 @@
+select memid, concat(firstname, ' ',surname) as cus_name, recommendedby from public.members

@@ -1,0 +1,1 @@
+select facid, name, membercost, guestcost, initialoutlay, monthlymaintenance from postgres.public.facilities

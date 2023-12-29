@@ -1,0 +1,1 @@
+select bookid, facid, memid, starttime, slots from postgres.public.bookings
