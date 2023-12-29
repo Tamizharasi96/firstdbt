@@ -1,0 +1,8 @@
+Creating a project repository in local and pushing it to remote.
+Step 1: FIRSTDBT project is already created. Run git init within the directory
+Step 2: Add files to the staging and commit the chanegs
+    git add .
+    git commit -m "commit message"
+Step 3: Create git repository with name FIRSTDBT in Github
+Step 4: git remote add origin <repository URL>
+Step 5: git push -u -f origin master
